@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    justify-content: center;
+    color: rgb(156, 0, 0);
+    font-size: 60px;
+}
+.precio{
+    display: flex;
+    justify-content: center;
+    font-size: 140px;
+}
